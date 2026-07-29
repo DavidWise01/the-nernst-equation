@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1933
+slug  : the-nernst-equation
+seal  : b77ccd298047be151d4d86ec4a1be889439d6e3d74950cbc9280908a9fc8f193
+prev  : 8dcd98af454c245ef29812aa9e9eaeb61a0608f535199f23f588798e93e2271c
+link  : 8becafed50e2a7d798d9394a3998507d99b46c85a3d6c18bc9361d677380ff49
+head  : 2893a850e7fa16bdd15795af206f08071dc5ee18ebd8a2d3df805a73bfd1226e
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
